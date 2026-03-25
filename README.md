@@ -1,12 +1,12 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=6E40C9&center=true&vCenter=true&width=500&lines=hey+%F0%9F%91%8B+i'm+Elias;software+engineer+%2B+web3+builder;shipping+code+on+%2B+off+chain)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=6E40C9&center=true&vCenter=true&width=500&lines=Hey+%F0%9F%91%8B+I'm+Elias;Software+Engineer+%2B+Web3+Builder;Shipping+code+on+%2B+off+chain)](https://git.io/typing-svg)
 
 </div>
 
 ---
 
-### 🧑‍💻 about me
+### 🧑‍💻 About Me
 
 ```ts
 const elias = {
@@ -18,7 +18,7 @@ const elias = {
 
 ---
 
-### 🛠 tech stack
+### 🛠 Tech Stack
 
 **Frontend**
 
@@ -40,11 +40,11 @@ const elias = {
 
 ---
 
-### 📊 github stats
+### 📊 GitHub Stats
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=JohnsonNguyen-coll&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&custom_title=GitHub+Stats" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api?username=JohnsonNguyen-coll&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&custom_title=GitHub+Stats" height="165"/>
 &nbsp;
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JohnsonNguyen-coll&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" height="165"/>
 
@@ -61,7 +61,5 @@ const elias = {
 <div align="center">
 
 *"Build in public. Learn in public. Ship constantly."*
-
-![Profile Views](https://komarev.com/ghpvc/?username=JohnsonNguyen-coll&style=flat-square&color=6E40C9&label=profile+views)
 
 </div>
