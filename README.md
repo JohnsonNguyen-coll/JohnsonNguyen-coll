@@ -1,67 +1,67 @@
-<!-- Header -->
 <div align="center">
 
-```
-╔══════════════════════════════════════════════════════════╗
-║                                                          ║
-║    hoang nguyen  ·  software engineer  ·  web3           ║
-║                                                          ║
-╚══════════════════════════════════════════════════════════╝
-```
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=6E40C9&center=true&vCenter=true&width=500&lines=hey+%F0%9F%91%8B+i'm+Elias;software+engineer+%2B+web3+builder;shipping+code+on+%2B+off+chain)](https://git.io/typing-svg)
 
 </div>
 
 ---
 
-### about
+### 🧑‍💻 about me
 
-> building at the intersection of web2 reliability and web3 possibility.
-
-software engineer with a focus on full-stack development and decentralized systems. i write clean, scalable code and occasionally ship things that work on the blockchain.
-
----
-
-### stack
-
-**frontend**
-```
-Next.js   React   TypeScript   TailwindCSS
-```
-
-**backend**
-```
-Node.js   .NET   REST   GraphQL
-```
-
-**web3**
-```
-Solidity   Ethers.js   Hardhat   IPFS
+```ts
+const elias = {
+  role     : "Software Engineer",
+  passion  : "Web3 & Decentralized Systems",
+  learning : ["ZK Proofs", "Account Abstraction", "AI × Web3"],
+};
 ```
 
 ---
 
-### github stats
+### 🛠 tech stack
+
+**Frontend**
+
+![Next.js](https://img.shields.io/badge/Next.js-000?style=flat-square&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+
+**Backend**
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+
+**Web3**
+
+![Solidity](https://img.shields.io/badge/Solidity-363636?style=flat-square&logo=solidity&logoColor=white)
+![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=flat-square&logo=ethereum&logoColor=white)
+![Hardhat](https://img.shields.io/badge/Hardhat-FFF100?style=flat-square&logo=hardhat&logoColor=black)
+
+---
+
+### 📊 github stats
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JohnsonNguyen-coll&show_icons=true&theme=graywhite&hide_border=true&hide_title=true&count_private=true)
+<img src="https://github-readme-stats.vercel.app/api?username=JohnsonNguyen-coll&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&custom_title=GitHub+Stats" height="165"/>
+&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JohnsonNguyen-coll&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" height="165"/>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JohnsonNguyen-coll&layout=compact&theme=graywhite&hide_border=true&langs_count=6)
+</div>
+
+<div align="center">
+
+![GitHub Streak](https://streak-stats.demolab.com?user=JohnsonNguyen-coll&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D)
 
 </div>
 
 ---
 
-### currently
-
-- 🔨 building decentralized payment & escrow systems
-- 📖 exploring account abstraction & ZK proofs
-- 🤝 open to collaborating on web3 / fullstack projects
-
----
-
 <div align="center">
 
-[github](https://github.com/JohnsonNguyen-coll) · open to work · vietnam 🇻🇳
+*"Build in public. Learn in public. Ship constantly."*
+
+![Profile Views](https://komarev.com/ghpvc/?username=JohnsonNguyen-coll&style=flat-square&color=6E40C9&label=profile+views)
 
 </div>
