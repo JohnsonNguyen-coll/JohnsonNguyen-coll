@@ -40,9 +40,9 @@ const elias = {
 
 <div align="center">
 
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=JohnsonNguyen-coll&show_icons=true&theme=radical&hide_border=true&count_private=true&hide=stars,issues&custom_title=Elias%27s+GitHub+Stats&icon_color=F97316&title_color=A855F7&text_color=E2E8F0&bg_color=0D1117" height="170"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=JohnsonNguyen-coll&theme=radical" height="170"/>
 &nbsp;
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=JohnsonNguyen-coll&layout=donut&theme=radical&hide_border=true&langs_count=6&title_color=A855F7&text_color=E2E8F0&bg_color=0D1117" height="170"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=JohnsonNguyen-coll&theme=radical" height="170"/>
 
 </div>
 
