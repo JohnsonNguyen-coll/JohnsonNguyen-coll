@@ -7,7 +7,6 @@
 ---
 
 ### 🧑‍💻 About Me
-
 ```ts
 const elias = {
   role     : "Software Engineer",
@@ -21,19 +20,16 @@ const elias = {
 ### 🛠 Tech Stack
 
 **Frontend**
-
 ![Next.js](https://img.shields.io/badge/Next.js-000?style=flat-square&logo=nextdotjs&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 
 **Backend**
-
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
 
 **Web3**
-
 ![Solidity](https://img.shields.io/badge/Solidity-363636?style=flat-square&logo=solidity&logoColor=white)
 ![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=flat-square&logo=ethereum&logoColor=white)
 ![Hardhat](https://img.shields.io/badge/Hardhat-FFF100?style=flat-square&logo=hardhat&logoColor=black)
@@ -44,9 +40,9 @@ const elias = {
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=JohnsonNguyen-coll&show_icons=true&theme=radical&hide_border=true&count_private=true&hide=stars,issues&custom_title=Elias%27s+GitHub+Stats&icon_color=F97316&title_color=A855F7&text_color=E2E8F0&bg_color=0D1117" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api?username=JohnsonNguyen-coll&show_icons=true&theme=radical&hide_border=true&count_private=true&hide=stars,issues&custom_title=Elias%27s+GitHub+Stats&icon_color=F97316&title_color=A855F7&text_color=E2E8F0&bg_color=0D1117&cache_seconds=1800" height="170"/>
 &nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JohnsonNguyen-coll&layout=donut&theme=radical&hide_border=true&langs_count=6&title_color=A855F7&text_color=E2E8F0&bg_color=0D1117" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JohnsonNguyen-coll&layout=donut&theme=radical&hide_border=true&langs_count=6&title_color=A855F7&text_color=E2E8F0&bg_color=0D1117&cache_seconds=1800" height="170"/>
 
 </div>
 
