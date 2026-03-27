@@ -7,6 +7,7 @@
 ---
 
 ### 🧑‍💻 About Me
+
 ```ts
 const elias = {
   role     : "Software Engineer",
@@ -35,27 +36,29 @@ const elias = {
 ![Hardhat](https://img.shields.io/badge/Hardhat-FFF100?style=flat-square&logo=hardhat&logoColor=black)
 
 ---
+
 ### 📊 GitHub Stats
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=JohnsonNguyen-coll&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api?username=JohnsonNguyen-coll&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&cache_seconds=1800" height="165"/>
 &nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JohnsonNguyen-coll&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JohnsonNguyen-coll&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&cache_seconds=1800" height="165"/>
 
 </div>
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=JohnsonNguyen-coll&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+<img src="https://streak-stats.demolab.com?user=JohnsonNguyen-coll&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak"/>
 
 </div>
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=JohnsonNguyen-coll&theme=tokyonight&no-frame=true&row=1&column=6)](https://github.com/ryo-ma/github-profile-trophy)
+<img src="https://github-profile-trophy.vercel.app/?username=JohnsonNguyen-coll&theme=tokyonight&no-frame=true&row=1&column=6&margin-w=4" alt="trophy"/>
 
 </div>
+
 ---
 
 <div align="center">
