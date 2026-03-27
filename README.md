@@ -35,23 +35,27 @@ const elias = {
 ![Hardhat](https://img.shields.io/badge/Hardhat-FFF100?style=flat-square&logo=hardhat&logoColor=black)
 
 ---
-
 ### 📊 GitHub Stats
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=JohnsonNguyen-coll&theme=radical" height="170"/>
-&nbsp;
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=JohnsonNguyen-coll&theme=radical" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api?username=JohnsonNguyen-coll&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="165"/>
+&nbsp;&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JohnsonNguyen-coll&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" height="165"/>
 
 </div>
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=JohnsonNguyen-coll&theme=radical&hide_border=true&background=0D1117&ring=A855F7&fire=F97316&currStreakLabel=A855F7&sideLabels=E2E8F0&dates=6B7280&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=JohnsonNguyen-coll&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
 </div>
 
+<div align="center">
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=JohnsonNguyen-coll&theme=tokyonight&no-frame=true&row=1&column=6)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
 ---
 
 <div align="center">
